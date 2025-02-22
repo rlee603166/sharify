@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/rlee603166/sharify-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/rlee603166/sharify-frontend.git
