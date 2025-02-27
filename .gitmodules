@@ -4,3 +4,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/rlee603166/sharify-frontend.git
+[submodule "sharify-ocr"]
+	path = sharify-ocr
+	url = https://github.com/rlee603166/sharify-ocr.git
